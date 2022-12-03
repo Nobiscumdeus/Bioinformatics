@@ -1,0 +1,37 @@
+LOCUS       1DMU_F                    17 bp    DNA     linear   SYN 01-DEC-2020
+DEFINITION  Chain F, Crystal structure of the restriction endonuclease BglI
+            (e.c.3.1.21.4) bound to its dna recognition sequence.
+ACCESSION   1DMU_F
+VERSION     1DMU_F
+KEYWORDS    .
+SOURCE      synthetic construct
+  ORGANISM  synthetic construct
+            other sequences; artificial sequences.
+REFERENCE   1  (bases 1 to 17)
+  AUTHORS   Lunnen,K.D. and Wilson,G.G.
+  TITLE     Method For Producing The Bgli Restriction Endonuclease And
+            Methylase
+  JOURNAL   Patent: Us 536682, New England Biolabs, Beverly, Ma (1994)
+REFERENCE   2  (bases 1 to 17)
+  AUTHORS   Newman,M., Lunnen,K., Wilson,G., Greci,J., Schildkraut,I. and
+            Phillips,S.E.
+  TITLE     Crystal structure of restriction endonuclease BglI bound to its
+            interrupted DNA recognition sequence
+  JOURNAL   EMBO J. 17 (18), 5466-5476 (1998)
+   PUBMED   9736624
+REFERENCE   3  (bases 1 to 17)
+  AUTHORS   Newman,M., Lunnen,K., Wilson,G., Greci,J., Schildkraut,I. and
+            Phillips,S.E.V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-DEC-1999)
+COMMENT     1 Dna (5'-
+            D(*ap*tp*cp*gp*cp*cp*tp*ap*ap*tp*ap*gp*gp*cp*gp*ap*t)-3').
+FEATURES             Location/Qualifiers
+     source          1..17
+                     /organism="synthetic construct"
+                     /mol_type="other DNA"
+                     /db_xref="taxon:32630"
+ORIGIN      
+        1 atcgcctaat aggcgat
+//
+
